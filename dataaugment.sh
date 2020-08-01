@@ -1,0 +1,1 @@
+python utils/augment.py /share/home/fangzhengqing/Data/Keratitis_baseline/train --out_num 30000

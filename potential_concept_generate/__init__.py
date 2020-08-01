@@ -1,0 +1,1 @@
+from .salient_map import SalientMapGenerator
